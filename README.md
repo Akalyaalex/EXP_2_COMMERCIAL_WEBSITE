@@ -292,9 +292,7 @@ h5{
 ```
 
 ## OUTPUT
- ![image](https://github.com/Lakshmipriya-P-AI/commercial-web/assets/93427923/4748c95a-a5ed-41f7-9be5-580d53d8c672)
-![image](https://github.com/Lakshmipriya-P-AI/commercial-web/assets/93427923/b1878670-ecf1-426a-8129-75eeb8e25d6c)
-![image](https://github.com/Lakshmipriya-P-AI/commercial-web/assets/93427923/9e3169bd-44ec-47cc-9e73-1c27621c3105)
+![commercial](https://github.com/Akalyaalex/EXP_2_COMMERCIAL_WEBSITE/assets/114275126/fa0c4c8a-cbb1-420a-9e7d-a12915350177)
 
 ## RESULT:
       
